@@ -1,0 +1,2 @@
+test@DESKTOP-G76AL6L:/tmp$ sudo docker import cEOS-lab-4.28.4M.tar ceos:4.28.4M
+sha256:543c2fa0feaa7b1e2d887009600284d2a934104c883ca65380dd8d83fe943d88
