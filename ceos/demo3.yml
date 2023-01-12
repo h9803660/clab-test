@@ -11,6 +11,9 @@ topology:
     ceos3:
       kind: ceos
       image: ceos:4.28.4M
+    ceos4:
+      kind: ceos
+      image: ceos:4.28.4M
   links:
     - endpoints: ["ceos1:eth1", "ceos2:eth2"]
     - endpoints: ["ceos1:eth2", "ceos4:eth1"]
