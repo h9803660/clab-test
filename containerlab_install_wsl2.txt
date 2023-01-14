@@ -1,4 +1,4 @@
-test@LAPTOP-MT31GMA7:~$ sudo cat /etc/issue
+test$ sudo cat /etc/issue
 Ubuntu 22.04.1 LTS \n \l
 
 test@LAPTOP-MT31GMA7:~$ curl -L https://gist.githubusercontent.com/hellt/e8095c1719a3ea0051165ff282d2b62a/raw/1dffb71d0495bb2be953c489cd06a25656d974a4/docker-install.sh | \
@@ -139,4 +139,4 @@ Processing triggers for man-db (2.10.2-1) ...
 Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
 /sbin/ldconfig.real: /usr/lib/wsl/lib/libcuda.so.1 is not a symbolic link
 
-test@LAPTOP-MT31GMA7:~$
+test$
